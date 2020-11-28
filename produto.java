@@ -1,7 +1,16 @@
-public class Produto abstract{
+abstract class Produto {
 
-    String fabricante;
-    String nome;
-    double preço;
+    private String fabricante;
+    private String nome;
+    private double preco;
+
+    public Produto(String fabricante, String nome, double preco){
+
+        this.fabricante = fabricante;
+        this.nome = nome;
+        this.preco = preco;
+
+    }
+
 
 }
