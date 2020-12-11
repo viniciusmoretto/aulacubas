@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Computador
+comment1.params=nome\ valor\ hd\ memoria\ processador
+comment1.target=Computador(java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ listaComputador()
+comment3.params=
+comment3.target=java.lang.String\ getHd()
+numComments=4

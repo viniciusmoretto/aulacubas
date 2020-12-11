@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cerveja
+comment1.params=nome\ valor\ teor\ prazoValidade
+comment1.target=Cerveja(java.lang.String,\ double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ listaCerveja()
+numComments=3
